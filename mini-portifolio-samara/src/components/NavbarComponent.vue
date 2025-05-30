@@ -1,7 +1,7 @@
 <template>
     <nav class="bg-linear-to-t from-[#a5a5ef] to-[#5c7ada] text-white py-4 px-8 flex justify-between items-center shadow-sm">
       <span class="self-center text-2xl font-semibold whitespace-nowrap text-white"><h1>Samara Adorno</h1></span>
-      <div>
+      <div class="flex items-center justify-center">
           <img src="../assets/images/logo.png" alt="Logo" class="rounded-full w-25 h-25 mx-auto md:mx-0 border-4 border-purple-300 shadow-lg object-cover">
         </div>
       <ul class="flex gap-6 mr-5 text-[20px]">
