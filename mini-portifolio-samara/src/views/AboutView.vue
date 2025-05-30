@@ -1,22 +1,25 @@
 <template>
   <div>
-  <h1 class="display-4 text-center font-bold text-[40px] mt-5 mb-5 text-purple-900">Sobre mim</h1>
-  </div>
+  <h1 className="text-4xl md:text-5xl font-bold text-pink-700 text-center mt-20">Sobre Mim</h1>
 
   <div class="flex items-center justify-center min-h-screen bg-gray-100">
-  <div class="w-300px bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 text-center p-6">
-    <img class="w-30 h-30 mb-3 rounded-full shadow-lg mx-auto border-4 border-purple-300 shadow-lg object-cover" src="../assets/images/perfil.png" alt="Samara image" />
-    <h3 class="display-4 text-center font-semibold text-[20px] mt-5 mb-5 text-purple-800">Muito prazer em conhecer você!</h3>
-    <h2><stronger class="text-[30px] font-bold text-[#b4446c]">Meu nome é Samara Adorno</stronger></h2>
+  <div class="w-500 bg-white border border-gray-200 rounded-lg shadow-sm  text-center p-6">
+    <!-- Imagem -->
+    <div class="w-40 h-40 mb-5 mx-auto rounded-full bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 p-1 shadow-lg">
+    <img class="w-full h-full rounded-full object-cover" src="../assets/images/perfil.png" alt="Samara image" />
+    </div>
+
+    <h2><stronger class="text-[30px] font-bold text-purple-900">Olá! Sou a Samara Adorno</stronger></h2>
     <br>
-    <p class="display-4 text-justify font-medium text-[20px] mt-5 mb-5 text-gray-900 mb-10">Cursando o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade de Marília e concluinte de um curso técnico integrado ao ensino médio pela Etec Antonio Devisate, atualmente trabalho como operadora de telesserviços na Pascholoto Serviços Financeiros, estou em busca de uma migração de carreira para a área de Tecnologia da Informação, pela qual estou estudando e buscando conhecimento que me possibilitam realizar essa migração, através da minha graduação, eventos, palestras, workshops, imersões, etc. Com isso, sou capaz de oferecer um serviço de qualidade através de meus conhecimentos práticos da área de Tecnologia da Informação e boas habilidades interpessoais, visando o meu desenvolvimento e aprimoramento profissional.</p>
+    <p class="display-4 text-justify font-medium text-[20px] mt-5 mb-5 text-gray-900 mb-10">Estudante do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade de Marília e concluinte de um curso técnico integrado ao ensino médio pela Etec Antonio Devisate, atualmente trabalho como operadora de telesserviços na Pascholoto Serviços Financeiros, estou em busca de uma migração de carreira para a área de Tecnologia da Informação, pela qual estou estudando e buscando conhecimento que me possibilitam realizar essa migração, através da minha graduação, eventos, palestras, workshops, imersões, etc. Com isso, sou capaz de oferecer um serviço de qualidade através de meus conhecimentos práticos da área de Tecnologia da Informação e boas habilidades interpessoais, visando o meu desenvolvimento e aprimoramento profissional.</p>
     <p class="display-4 text-justify font-medium text-[20px] mt-5 mb-5 text-gray-900 mb-10">Sou uma pessoa criativa, proativa, consigo trabalhar bem em equipe, além de ser uma pessoa bastante esforçada, sempre procurando novas experiências para ampliar ainda mais meu conhecimento.</p>
   </div>
 </div>
 
-<div class="grid mt-10 mb-10 border border-gray-200 rounded-lg shadow-xs dark:border-gray-700 md:mb-12 md:grid-cols-2 bg-white dark:bg-gray-800">
-    <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-gray-200 rounded-t-lg md:rounded-t-none md:rounded-ss-lg md:border-e dark:bg-gray-800 dark:border-gray-700">
-        <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
+<div class="grid mt-10 mb-10 border border-gray-200 rounded-lg shadow-xs md:mb-12 md:grid-cols-2 bg-white">
+    <!-- Formação -->
+    <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-gray-200 rounded-t-lg md:rounded-t-none md:rounded-ss-lg md:border-e">
+        <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8">
             <h2 class="display-4 text-center font-bold text-[30px] mt-5 mb-5 text-[#312d50]">Formação Acadêmica</h2>
 
             <h3 class="display-4 text-center font-bold text-[24px] mt-5 mb-4 text-blue-900">Unimar Universidade de Marília, Marília</h3>
@@ -29,8 +32,9 @@
         </blockquote>
     </figure>
 
-    <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-gray-200 md:rounded-se-lg dark:bg-gray-800 dark:border-gray-700">
-        <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
+    <!-- Experiência -->
+    <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-gray-200 md:rounded-se-lg">
+        <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8">
             <h2 class="display-4 text-center font-bold text-[30px] mt-5 mb-5 text-[#312d50]">Experiência</h2>
             
             <h3 class="display-4 text-center font-bold text-[24px] mt-5 mb-4 text-blue-900">Pascholoto Serviços Financeiros</h3>
@@ -40,8 +44,9 @@
         </blockquote>
     </figure>
 
-    <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-gray-200 md:rounded-es-lg md:border-b-0 md:border-e dark:bg-gray-800 dark:border-gray-700">
-        <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
+    <!-- Habilidades -->
+    <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-gray-200 md:rounded-es-lg md:border-b-0 md:border-e">
+        <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8">
             <h2 class="display-4 text-center font-bold text-[30px] mt-5 mb-5 text-[#312d50]">Habilidades</h2>
             <ul class="text-gray-900 font-semibold text-[20px] p-4">
             <li>Microsoft Office</li>
@@ -61,7 +66,8 @@
         </blockquote> 
     </figure>
 
-    <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-gray-200 rounded-b-lg md:rounded-se-lg dark:bg-gray-800 dark:border-gray-700">
+    <!-- Objetivos -->
+    <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-gray-200 rounded-b-lg md:rounded-se-lg">
         <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
             <h2 class="display-4 text-center font-bold text-[30px] mt-5 mb-5 text-[#312d50]">Objetivos</h2>
             
@@ -77,11 +83,13 @@
     </figure>
 </div>
 
- <div class="flex justify-center">
-  <button type="button" class="text-white bg-purple-700 hover:bg-violet-700 focus:outline-none focus:ring-4 focus:ring-purple-300 font-semibold rounded-full text-[16px] px-5 py-2.5 text-center mt-10 mb-10 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900 transition duration-300 transition-transform duration-300 transform hover:scale-105">
-  <router-link to="/contact">
-  <span>Entre em contato comigo</span>
-  </router-link>
-  </button>
-  </div>
+     <!-- Botão para a tela de projetos -->
+     <div class="flex flex-col sm:flex-row gap-4 justify-center mt-20 mb-20">
+        <button type="button" class="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-3 transition-transform duration-300 transform hover:scale-105 font-semibold rounded-full text-[18px]">
+      <router-link to="/contact">
+      <span>Entre em contato comigo</span>
+      </router-link>
+     </button>
+     </div>
+     </div>
 </template>
