@@ -154,10 +154,8 @@
                                         class="w-full h-full object-cover">
                                 </div>
                             </div>
-                            <a href="#">
                                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
                                     Microsoft Office</h5>
-                            </a>
                             <p class="mb-3 font-semibold text-gray-900">Conhecimento intermediário em ferramentas como Word, Excel, PowerPoint, Outlook, OneNote, Forms, Visio, etc.</p>
                         </div>
 
@@ -170,10 +168,8 @@
                                         class="w-full h-full object-cover">
                                 </div>
                             </div>
-                            <a href="#">
                                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
                                     Conceitos de UX | UI</h5>
-                            </a>
                             <p class="mb-3 font-semibold text-gray-900">Wireframe, Persona, Mapa de Empatia, Hierarquia, Prototipagem, Criação de slides, Criação de Logomarcas, etc.</p>
                         </div>
 
@@ -186,10 +182,8 @@
                                         class="w-full h-full object-cover">
                                 </div>
                             </div>
-                            <a href="#">
                                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
                                     Desenvolvimento Front-end</h5>
-                            </a>
                             <p class="mb-3 font-semibold text-gray-900">Conhecimento em linguagens e ferramentas como HTML, CSS, JavaScript, Vue, Bootstrap, Tailwind CSS, etc.</p>
                         </div>
 
@@ -202,10 +196,8 @@
                                         class="w-full h-full object-cover">
                                 </div>
                             </div>
-                            <a href="#">
                                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
                                     Desenvolvimento Back-end</h5>
-                            </a>
                             <p class="mb-3 font-semibold text-gray-900">Conhecimento em linguagens como C#, Python, PHP, etc.</p>
                         </div>
 
@@ -218,10 +210,8 @@
                                         class="w-full h-full object-cover">
                                 </div>
                             </div>
-                            <a href="#">
                                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
                                     Familiaridade com diversos softwares</h5>
-                            </a>
                             <p class="mb-3 font-semibold text-gray-900">Figma, Canva, Git Hub, Thello, Pacote Adobe, Colors.io, Visiual Studio, Visual Studio Code, etc.</p>
                         </div>
                     </div>
@@ -235,14 +225,12 @@
                             <div class="flex justify-center items-center">
                                 <div
                                     class="w-20 h-20 lg:w-24 lg:h-24 rounded-full p-1">
-                                    <img src="../assets/images/"
+                                    <img src="../assets/images/proativo.png"
                                         class="w-full h-full object-cover">
                                 </div>
                             </div>
-                            <a href="#">
                                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
                                     Proatividade</h5>
-                            </a>
                             <p class="mb-3 font-semibold text-gray-900">Solução de problemas, Iniciativa, Visão de futuro, Boa adaptação, Criatividade, etc</p>
                         </div>
 
@@ -251,15 +239,13 @@
                             <div class="flex justify-center items-center">
                                 <div
                                     class="w-20 h-20 lg:w-24 lg:h-24 rounded-full p-1">
-                                    <img src="../assets/images/skills/office.png"
+                                    <img src="../assets/images/equipe.png"
                                         class="w-full h-full object-cover">
                                 </div>
                             </div>
-                            <a href="#">
                                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
-                                    Microsoft Office</h5>
-                            </a>
-                            <p class="mb-3 font-semibold text-gray-900">Conhecimento intermediário em ferramentas como Word, Excel, PowerPoint, Outlook, OneNote, Forms, Visio, entre outras.</p>
+                                    Trabalho em equipe</h5>
+                            <p class="mb-3 font-semibold text-gray-900">Facilidade em trabalhar em equipe respeitando cada um dos membros.</p>
                         </div>
 
                        <div
@@ -267,15 +253,13 @@
                             <div class="flex justify-center items-center">
                                 <div
                                     class="w-20 h-20 lg:w-24 lg:h-24 rounded-full p-1">
-                                    <img src="../assets/images/skills/office.png"
+                                    <img src="../assets/images/empatia.png"
                                         class="w-full h-full object-cover">
                                 </div>
                             </div>
-                            <a href="#">
                                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
-                                    Microsoft Office</h5>
-                            </a>
-                            <p class="mb-3 font-semibold text-gray-900">Conhecimento intermediário em ferramentas como Word, Excel, PowerPoint, Outlook, OneNote, Forms, Visio, entre outras.</p>
+                                    Empatia</h5>
+                            <p class="mb-3 font-semibold text-gray-900">Agindo com muita empatia, entendo a dor do próximo e dependendo da situação procurar ajudar se for necessário.</p>
                         </div>
 
                        <div
@@ -283,15 +267,13 @@
                             <div class="flex justify-center items-center">
                                 <div
                                     class="w-20 h-20 lg:w-24 lg:h-24 rounded-full p-1">
-                                    <img src="../assets/images/"
+                                    <img src="../assets/images/otimismo.png"
                                         class="w-full h-full object-cover">
                                 </div>
                             </div>
-                            <a href="#">
                                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
-                                    Proatividade</h5>
-                            </a>
-                            <p class="mb-3 font-semibold text-gray-900">Solução de problemas, Iniciativa, Visão de futuro, Boa adaptação, Criatividade, etc</p>
+                                    Otimismo</h5>
+                            <p class="mb-3 font-semibold text-gray-900">Atitude que se concentra nas perspectivas positivas e nas soluções em vez de se fixar nos problemas, mesmo em situações difíceis, há sempre a possibilidade de um desfecho favorável. </p>
                         </div>
 
                         <div
@@ -299,21 +281,119 @@
                             <div class="flex justify-center items-center">
                                 <div
                                     class="w-20 h-20 lg:w-24 lg:h-24 rounded-full p-1">
-                                    <img src="../assets/images/skills/office.png"
+                                    <img src="../assets/images/aprendizado.png"
                                         class="w-full h-full object-cover">
                                 </div>
                             </div>
-                            <a href="#">
                                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
-                                    Microsoft Office</h5>
-                            </a>
-                            <p class="mb-3 font-semibold text-gray-900">Conhecimento intermediário em ferramentas como Word, Excel, PowerPoint, Outlook, OneNote, Forms, Visio, entre outras.</p>
+                                    Facilidade em aprendizado contínuo</h5>
+                            <p class="mb-3 font-semibold text-gray-900">Capacidade e vontade de aprender de forma constante, adaptando-se a novas informações e experiências ao longo da vida. </p>
                         </div>
                     </div>
 
                 </div>
             </div>
         </div>
+
+        <!-- Objetivos -->
+        <div class="flex items-center justify-center min-h-screen mt-20">
+            <div class="w-300  text-center">
+                <div class="flex flex-col items-center">
+                    <h2 class="text-center font-bold text-[30px] mt-5 mb-5 text-[#312d50]">
+                        <span class="flex items-center gap-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor"
+                                class="bi bi-star-fill text-yellow-500" viewBox="0 0 16 16">
+                                <path
+                                    d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                            </svg>
+                            <span>Objetivos</span>
+                        </span>
+                    </h2>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                        <div
+                            class="max-w-60 h-80 p-6 bg-gradient-to-r from-blue-300 to-purple-400 border-3 border-violet-800 rounded-lg shadow-sm">
+                            <div class="flex justify-center items-center">
+                                <div
+                                    class="w-20 h-20 lg:w-24 lg:h-24 rounded-full p-1 mb-10">
+                                    <img src="../assets/images/skills/sofware.png"
+                                        class="w-full h-full object-cover">
+                                </div>
+                            </div>
+                                <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
+                                    Familiaridade com diversos softwares</h5>
+                        </div>
+
+                        <div
+                        class="max-w-60 h-80 p-6 bg-gradient-to-r from-blue-300 to-purple-400 border-3 border-violet-800 rounded-lg shadow-sm">
+                            <div class="flex justify-center items-center">
+                                <div
+                                    class="w-20 h-20 lg:w-24 lg:h-24 rounded-full p-1 mb-10">
+                                    <img src="../assets/images/skills/sofware.png"
+                                        class="w-full h-full object-cover">
+                                </div>
+                            </div>
+                                <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
+                                    Familiaridade com diversos softwares</h5>
+                        </div>
+
+                        <div
+                        class="max-w-60 h-80 p-6 bg-gradient-to-r from-blue-300 to-purple-400 border-3 border-violet-800 rounded-lg shadow-sm">
+                            <div class="flex justify-center items-center">
+                                <div
+                                    class="w-20 h-20 lg:w-24 lg:h-24 rounded-full p-1 mb-10">
+                                    <img src="../assets/images/skills/sofware.png"
+                                        class="w-full h-full object-cover">
+                                </div>
+                            </div>
+                                <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
+                                    Familiaridade com diversos softwares</h5>
+                        </div>
+
+                        <div
+                        class="max-w-60 h-80 p-6 bg-gradient-to-r from-blue-300 to-purple-400 border-3 border-violet-800 rounded-lg shadow-sm">
+                            <div class="flex justify-center items-center">
+                                <div
+                                    class="w-20 h-20 lg:w-24 lg:h-24 rounded-full p-1 mb-10">
+                                    <img src="../assets/images/skills/sofware.png"
+                                        class="w-full h-full object-cover">
+                                </div>
+                            </div>
+                                <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
+                                    Familiaridade com diversos softwares</h5>
+                        </div>
+
+                        <div
+                        class="max-w-60 h-80 p-6 bg-gradient-to-r from-blue-300 to-purple-400 border-3 border-violet-800 rounded-lg shadow-sm">
+                            <div class="flex justify-center items-center">
+                                <div
+                                    class="w-20 h-20 lg:w-24 lg:h-24 rounded-full p-1 mb-10">
+                                    <img src="../assets/images/skills/sofware.png"
+                                        class="w-full h-full object-cover">
+                                </div>
+                            </div>
+                                <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
+                                    Familiaridade com diversos softwares</h5>
+                        </div>
+
+                        <div
+                        class="max-w-60 h-80 p-6 bg-gradient-to-r from-blue-300 to-purple-400 border-3 border-violet-800 rounded-lg shadow-sm">
+                            <div class="flex justify-center items-center">
+                                <div
+                                    class="w-20 h-20 lg:w-24 lg:h-24 rounded-full p-1 mb-10">
+                                    <img src="../assets/images/skills/sofware.png"
+                                        class="w-full h-full object-cover">
+                                </div>
+                            </div>
+                                <h5 class="mb-2 text-2xl font-bold tracking-tight text-pink-900">
+                                    Familiaridade com diversos softwares</h5>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
 
         <!-- Botão para a tela de projetos -->
         <div class="flex flex-col sm:flex-row gap-4 justify-center mt-20 mb-20">
